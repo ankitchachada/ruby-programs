@@ -8,7 +8,7 @@ class BubbleSort
 	      end
 	    end  
 	  end
-	  puts "Sorted List:"
+    puts "Sorted List:"
     p a.map { |e| e }
   end
 end
