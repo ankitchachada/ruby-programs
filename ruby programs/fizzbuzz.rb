@@ -1,5 +1,5 @@
 def fizzbuzz
-	arr = (1..100).to_a
+	arr = (1..100)
 	arr.each do |i|
 		if (i%15).zero?
 			p "FizzBuzz"
